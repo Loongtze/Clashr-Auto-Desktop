@@ -1,11 +1,13 @@
-# Clashr-Auto-Desktop
+# Clashr-Auto 网络加速软件
+> 核心：在clash.meta基础上增加测速等功能，尽可能的简化界面，降低学习成本
+
 ### 无需学习，简单设置即可稳定使用！
 
 ## 软件截图
 ![Clashr Auto Desktop](https://raw.githubusercontent.com/ClashrAuto/Clashr-Auto-Desktop/master/uploads/logo.png "Clashr Auto Desktop")
 
 ## 支持协议
-> ss,ssr,ssd,v2ray,trojan
+> ss,ssr,ssd,v2ray,trojan,vless,vmess等多种协议
 
 ## 支持平台
 
